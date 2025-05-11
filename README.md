@@ -1,9 +1,10 @@
+## creator is murteessaa alaafii 
 ## Simple React Calculator
-A Calculator Using React JS - https://maniruzzamanakash.github.io/react-calculator/
+A Calculator Using React JS - https://murteessaaalaafii.github.io/react-calculator/
 
 ## Demo Look
 
-##### Live Link: https://maniruzzamanakash.github.io/react-calculator/
+##### Live Link: https://murteessaaalaafii.github.io/react-calculator/
  
 ![A Calculator Using React JS][calculator-screenshot]
 
@@ -11,7 +12,7 @@ A Calculator Using React JS - https://maniruzzamanakash.github.io/react-calculat
 
 
 ## Live Test of React js Simple Calculator
-https://maniruzzamanakash.github.io/react-calculator
+https://murteessaaalaafii.github.io/react-calculator
 
 ## Demo Look In Operation
  
@@ -24,7 +25,7 @@ https://maniruzzamanakash.github.io/react-calculator
 
 1) First Clone this project:
 
-### `git clone https://github.com/ManiruzzamanAkash/react-calculator.git`
+### `git clone https://github.com/murteessaaalaafii/react-calculator.git`
 
 2) Install node modules:
 
@@ -70,3 +71,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+## murteessaa alaafii 
+ffff#
